@@ -9,4 +9,4 @@ The user can
 • List the cars in the inventory file
 • Quit the program 
 
-We gatherd some of the information of how to do this online with some of my peers.
+We got some of the information on how to do this homework assignment online with some of my peers.
