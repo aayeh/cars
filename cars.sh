@@ -1,5 +1,11 @@
 #! /bin/bash
 # cars.sh
 # Aaron Yeh
-while 
-   echo "Choose (1) to enter a car Choose (2) to list the cars Choose (q) to quit"
+
+options=("Option 1" "Option 2" "Quit")
+select opt in "${options[@]}"
+do
+   case $opt in
+      "Option1")
+         echo "Please input the year: "
+         
