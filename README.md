@@ -8,3 +8,5 @@ The user can
 • Add a car
 • List the cars in the inventory file
 • Quit the program 
+
+We gatherd some of the information of how to do this online with some of my peers.
